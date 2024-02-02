@@ -10,7 +10,7 @@ type CatName = "Moly" | "Milo" | "Oreo"
 const cats: Record<CatName, CatInfo> = {
     "Moly": {
         age: 2,
-        breed: "Persian"
+        breed: "persian"
     },
     "Milo": {
         age: 3,
